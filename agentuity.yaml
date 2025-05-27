@@ -8,9 +8,9 @@
 # The version semver range required to run this project
 version: '>=0.0.139'
 # The ID of the project which is automatically generated
-project_id: proj_b5581d6c83605d835f4a9fb2229a33a2
+project_id: proj_5ba93c10823623d0a90d37481da364dd
 # The name of the project which is editable
-name: basic-agent-1
+name: basic-project-2
 # The description of the project which is editable
 description: ""
 # The development configuration for the project
@@ -70,6 +70,6 @@ bundler:
 # The agents that are part of this project
 agents:
   - # The ID of the Agent which is automatically generated
-    id: agent_bbb86f129d2b46099b2653db66835c46
+    id: agent_4978774add536e198ac8ddb23059d192
     # The name of the Agent which is editable
     name: my agent
