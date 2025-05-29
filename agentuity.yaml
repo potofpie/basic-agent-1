@@ -8,7 +8,7 @@
 # The version semver range required to run this project
 version: '>=0.0.139'
 # The ID of the project which is automatically generated
-project_id: proj_b5581d6c83605d835f4a9fb2229a33a2
+project_id: proj_44d2ddd37e0dd6f2b8b4b57224c469b3
 # The name of the project which is editable
 name: basic-agent-1
 # The description of the project which is editable
